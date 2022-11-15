@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on getting a data job
 
+🌱 I’m currently learning some technicalskills like combinatorics, linear algebra using numpy
+
+⚡ Fun fact: I go to chess competitions and lose like a champ!
 
 <!--
 **fishinatot/fishinatot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
